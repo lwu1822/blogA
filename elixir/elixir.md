@@ -8,6 +8,7 @@ Elixir is a dynamic, functional programming language. It runs on the Erlang VM.
 
 Erlang is a language used to build scalable and reliable systems. It also addresses other important features, such as providing concurrency, fault tolerance, availability, etc., basicially all the general good features you would want in a programming language. 
 
+Concurrency is a big feature in Erlang. The Erlang process is the primitive in concurency. 
 
 ## Code 
 
