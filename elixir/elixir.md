@@ -10,6 +10,8 @@ Erlang is a language used to build scalable and reliable systems. It also addres
 
 Concurrency is a big feature in Erlang. The Erlang process is the primitive in concurency. 
 
+The Erlang virtual machine is called BEAM. BEAM is a single OS process. A scheduler runs multiple processes, and BEAM uses the many schedulers to achieve parallelism. 
+
 ## Code 
 
 ### VS Code extensions
